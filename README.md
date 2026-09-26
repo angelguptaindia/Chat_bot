@@ -2,6 +2,8 @@
 
 A simple, lightweight AI chatbot built with **Streamlit** and powered by **Google's Gemini API** (`gemini-2.5-flash`). Type a message in the sidebar and get an instant AI-generated response, with the full conversation history displayed on the page.
 
+To try out yourself click [here](https://angelschatbot.streamlit.app/)
+
 ## Features
 
 - 💬 Real-time conversational chat interface
