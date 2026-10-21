@@ -21,7 +21,7 @@ if not API_KEY:
     st.stop()
 
 genai.configure(api_key=API_KEY)
-model = genai.GenerativeModel("gemini-2.5-flash")
+model = genai.GenerativeModel("gemini-3.8-flash")
 chat = model.start_chat(history=[])
 
 st.sidebar.title("Chatbot")
